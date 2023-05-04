@@ -1,0 +1,6 @@
+[
+  { "id": "1", "nama": "Kemeja", "harga": "215000", "kuantitas": "3" },
+  { "id": "2", "nama": "Jeans", "harga": "350000", "kuantitas": "4" },
+  { "id": "3", "nama": "Sabuk", "harga": "80000", "kuantitas": "10" },
+  { "id": "4", "nama": "Boxer", "harga": "50000", "kuantitas": "15" }
+]
